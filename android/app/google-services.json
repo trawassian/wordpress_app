@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "717983321638",
+    "project_id": "indobestseller",
+    "storage_bucket": "indobestseller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717983321638:android:b4775cc62fd98a1d53a0e7",
+        "android_client_info": {
+          "package_name": "com.flutkit.trawasid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717983321638-1n4qr253cdrhdnil0sda003er6bsgd4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBsN24CbZ4CoLyHksBgkZs1xBjk90kFss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717983321638-1n4qr253cdrhdnil0sda003er6bsgd4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717983321638:android:6cac222d25f46eb653a0e7",
+        "android_client_info": {
+          "package_name": "com.newsfreak.trawasid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717983321638-1n4qr253cdrhdnil0sda003er6bsgd4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBsN24CbZ4CoLyHksBgkZs1xBjk90kFss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717983321638-1n4qr253cdrhdnil0sda003er6bsgd4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
